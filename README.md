@@ -1,5 +1,5 @@
-README 파일이란?
+<https://doit-fwd.tistory.com/>
 
-이곳은 저장소에 대한 설명을 작성합니다.
+[하루하루 스터디 노트](https://doit-fwd.tistory.com/)
 
-마크다운 문법을 사용합니다.
+[하루하루 스터디 노트](https://doit-fwd.tistory.com/ "프런트엔드 개발 팀")
